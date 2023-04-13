@@ -27,5 +27,5 @@
 </br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /></p>
-<hr style="height:2px;border-width:0;color:gray;background-color:#e6ffff">
+<hr style="height:2px;border-width:0;color:#e6ffff;background-color:#e6ffff">
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></p>
