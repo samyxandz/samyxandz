@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamaghna Choudhuri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI/ML developer from India eager to learn </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyxandz&label=Profile%20views&color=0e75b6&style=flat" alt="samyxandz" /> </p>
 
