@@ -7,8 +7,12 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samyxandz" alt="samyxandz" /></a> </p>
 -->
   
-- 🌱 I’m currently learning **AI/ML**
-
+- 🌱 I’m currently learning 
+ <ul>
+  <li>**AI/ML**</li>
+  <li>**Data structure ans algorithm**</li>
+  <li>**web development**</li>
+</ul>
 - 📫 How to reach me **tamaghna.official@gmail.com**
 </br>
 <h3 align="left">Connect with me:</h3>
