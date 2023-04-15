@@ -8,11 +8,11 @@
 -->
   
 - 🌱 I’m currently learning 
- <ul>
-  <li>**AI/ML**</li>
-  <li>**Data structure ans algorithm**</li>
-  <li>**web development**</li>
-</ul>
+  <ol>
+   <li><strong>AI/ML</strong></li>
+   <li><strong>Data structure ans algorithm</strong></li>
+  <li><strong>web development</strong></li>
+ </ol>
 - 📫 How to reach me **tamaghna.official@gmail.com**
 </br>
 <h3 align="left">Connect with me:</h3>
