@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning 
   <ul>
    <li><strong>AI/ML</strong></li>
-   <li><strong>Data structure ans algorithm</strong></li>
+   <li><strong>Data structure and algorithm</strong></li>
   <li><strong>web development</strong></li>
  </ul>
  <br>
@@ -32,5 +32,5 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div>
-<span height="1000px" ><img height="80%" width ="40%"  align="right" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /><img height="80%" width ="40%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
+<span height="1000px" ><img height="90%" width ="45%"  align="right" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /><img height="90%" width ="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
 </div>
