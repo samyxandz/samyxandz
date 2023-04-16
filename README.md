@@ -30,7 +30,7 @@
 </br>
 </br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 <div>
-<span padding="0px 0px 0px 10%" ><img height="80%" width ="40%"  align="center" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /></span>
-<span padding="0px 0px 0px 10%" ><img height="80%" width ="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
+<span ><img height="80%" width ="40%"  align="right" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /><img height="80%" width ="40%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
 </div>
