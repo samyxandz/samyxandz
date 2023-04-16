@@ -32,5 +32,5 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <div>
-<span ><img height="80%" width ="40%"  align="right" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /><img height="80%" width ="40%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
+<span ><img height="200px" width ="80px"  align="right" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /><img height="200px" width ="80px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
 </div>
