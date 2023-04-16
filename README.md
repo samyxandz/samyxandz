@@ -31,6 +31,6 @@
 </br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <div>
-<span height="175px" width ="90px" align="right" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /></span>
-<span height="175px" width ="90px" align="left" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
+<p height="175px" width ="90px" align="right" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /></p>
+<p height="175px" width ="90px" align="left" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></p>
 </div>
