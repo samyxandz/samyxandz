@@ -32,5 +32,5 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <div>
 <span align="right" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /></span>
-<spanalign="left" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
+<span align="left" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
 </div>
