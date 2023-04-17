@@ -14,7 +14,7 @@
   <li><strong>web development</strong></li>
  </ul>
  <br>
-- 📫 How to reach me **tamaghna.official@gmail.com**
+- 📫 How to reach me tamaghna.official@gmail.com 
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
