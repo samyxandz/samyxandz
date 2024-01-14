@@ -11,7 +11,7 @@
   <ul>
    <li><strong>AI/ML</strong></li>
    <li><strong>Data structure and algorithm</strong></li>
-  <li><strong>web development</strong></li>
+   <li><strong>backend development</strong></li>
  </ul>
  <br>
 - 📫 How to reach me tamaghna.official@gmail.com 
