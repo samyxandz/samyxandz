@@ -40,6 +40,8 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=samyxandz&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-
 </p>
 
+<p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=samyxandz)](https://github.com/samyxandz/github-profile-trophy)
+</p>
