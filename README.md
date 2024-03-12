@@ -41,8 +41,8 @@
   <br>
   <br>
 </p>
-
 <p>
-    <img height="50%" width="auto" src ="(https://github-profile-trophy.vercel.app/?username=samyxandz">
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=samyxandz)](https://github.com/samyxandz/github-profile-trophy)-->
+<a href="https://github.com/samyxandz/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=samyxandz&column=9&theme=gruvbox&no-frame=true"/>
+</a>
 </p>
