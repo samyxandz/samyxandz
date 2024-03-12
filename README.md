@@ -43,5 +43,6 @@
 </p>
 
 <p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=samyxandz)](https://github.com/samyxandz/github-profile-trophy)
+    <img height="50%" width="auto" src ="(https://github-profile-trophy.vercel.app/?username=samyxandz">
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=samyxandz)](https://github.com/samyxandz/github-profile-trophy)-->
 </p>
