@@ -10,8 +10,9 @@
 - 🌱 I’m currently learning 
   <ul>
    <li><strong>AI/ML</strong></li>
-   <li><strong>Data structure and algorithm</strong></li>
+   <li><strong>algorithms and core cs stuff</strong></li>
    <li><strong>backend development</strong></li>
+  <li><strong>Compilers</strong></li>
  </ul>
  <br>
 - 📫 How to reach me tamaghna.official@gmail.com 
