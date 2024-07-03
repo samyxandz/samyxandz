@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tamaghna Choudhuri</h1>
-<h3 align="center">A passionate Data science/Artificial intelligence and web development enthusiast from India</h3>
+<h1 align="center">Hi , I'm Tamaghna Choudhuri</h1>
 </br></ber
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyxandz&label=Profile%20views&color=0e75b6&style=flat" alt="samyxandz" /> </p>
 
