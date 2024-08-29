@@ -35,13 +35,13 @@
 <!--<div>
 <span height="1000px" ><img height="90%" width ="45%"  align="right" src="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&locale=en" alt="samyxandz" /><img height="90%" width ="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=samyxandz&" alt="samyxandz" /></span>
 </div>-->
-<p align="center">
+<!-- <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=samyxandz&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=samyxandz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=samyxandz&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-</p>
+</p> -->
 <!-- <p>
 <a href="https://github.com/samyxandz/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=samyxandz&column=9&theme=gruvbox&no-frame=true"/>
